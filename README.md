@@ -69,17 +69,6 @@
 - androguard 인텐트 필터 파싱 버그를 수동 데이터 검증으로 추적해 라이브러리 레벨 원인 확정
 - Ablation으로 **"99.3% 압축률"이 오병합 착시**임을 입증 · 유닛 테스트 371개
 
----
-
-### 📊 Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=k1212gh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1212gh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=k1212gh&theme=github-dark-blue&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
 </p>
